@@ -5,8 +5,8 @@ Projeto desenvolvido para fixar os conceitos de Design Patterns do curso de Java
 ### Configurações:
 
 - Instale e configure o Node.js
-- Npm install
-- Npx ts-node caminho/arquivo.ts
+- npm install
+- npx ts-node caminho/arquivo.ts
 
 Para mais detalhes entre em contato.
 
